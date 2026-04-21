@@ -1,3 +1,6 @@
+## Trading Bot CLI
+A simple command-line trading bot built in Python That simulates order execution with proper validation and modular design.
+
 ## Features
 - CLI based trading bot
 - Market & Limit orders
